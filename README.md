@@ -6,5 +6,6 @@ https://echo.labstack.com/guide
 
 ### Instalación
 
-``` GO111MODULE=on go get github.com/labstack/echo/v4
+``` go
+GO111MODULE=on go get github.com/labstack/echo/v4 
 ```
